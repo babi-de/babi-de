@@ -1,16 +1,29 @@
-## Hi there 👋
+#  Hi, I'm Mokhtari Sabrine
 
-<!--
-**babi-de/babi-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th year Computer Science student | Embedded Systems & Robotics Enthusiast | Hardware-Software Integration.
 
-Here are some ideas to get you started:
+>  *"Driven by bringing code to life in the physical world ,transforming algorithms into real time hardware, motion, and embedded solutions."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Primary Focus & Passions
+
+-  **Robotics & Embedded Systems:** Designing circuits, microcontrollers programming, and hardware control.
+-  **Real-Time Execution:** Seeing code interact directly with sensors, actuators, and hardware modules.
+-  **Networked Systems & Hardware:** Exploring embedded networking, hardware security, and low-level protocols.
+
+---
+
+###  Tech Stack & Tools
+
+###  Tech Stack & Tools
+
+* **Embedded Systems & Hardware:** C, C++, Arduino, Tinkercad
+* **Networking & Systems:** Cisco Packet Tracer, Linux, Bash, Wireshark
+* **Web Basics & Tools:** HTML5, CSS3, JavaScript, Git
+###  GitHub Stats
+
+---
+
+###  Connect with me
+gmail:mokhtarisabrine3@gmail.com 
