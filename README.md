@@ -16,7 +16,8 @@
 
 ###  Tech Stack & Tools
 
-###  Tech Stack & Tools
+
+
 
 * **Embedded Systems & Hardware:** C, C++, Arduino, Tinkercad
 * **Networking & Systems:** Cisco Packet Tracer, Linux, Bash, Wireshark
